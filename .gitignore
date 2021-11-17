@@ -1,0 +1,4 @@
+config/*
+.env
+exam.js
+package.json
